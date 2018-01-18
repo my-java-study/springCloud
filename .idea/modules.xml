@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/umf-b2b-crm/umf-b2b-crm.iml" filepath="$PROJECT_DIR$/umf-b2b-crm/umf-b2b-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umf-b2b-eureka/umf-b2b-eureka.iml" filepath="$PROJECT_DIR$/umf-b2b-eureka/umf-b2b-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umf-b2b-feign-client/umf-b2b-feign-client.iml" filepath="$PROJECT_DIR$/umf-b2b-feign-client/umf-b2b-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umf-b2b-parent.iml" filepath="$PROJECT_DIR$/umf-b2b-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umf-b2b-servie-api/umf-b2b-servie-api.iml" filepath="$PROJECT_DIR$/umf-b2b-servie-api/umf-b2b-servie-api.iml" />
+    </modules>
+  </component>
+</project>
