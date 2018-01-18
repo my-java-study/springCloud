@@ -49,5 +49,5 @@
 
 </project>
 <!--
-	作为公共基础模块，就是一个普通的maven工程，不能作为springboot工程
+	作为公共基础模块，就是一个普通的maven工程，不能作为springboot工程，不能使用spring-boot-maven-plugin插件
 -->
